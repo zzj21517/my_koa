@@ -2,6 +2,7 @@ node_modules
 package-lock.json
 # Webstorm
 .idea
+.DS_Store
 # Ignore Ts Compiled Files
 # dist
 # Ignore Document
